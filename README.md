@@ -14,3 +14,4 @@ Here i upload some Computer Vision basic programs or codes of small projects.
   print(x) = to print value of execution
   cv2.imwrite('/root/Desktop/myphoto.png',photo) = to save snap to a given path
   cap.release() = to release the camera 
+#sameer
